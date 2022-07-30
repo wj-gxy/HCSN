@@ -1,1 +1,3 @@
-# hscn
+# HCSN    Hierarchical Co-attention Selection Network for Interpretable Fake News Detection
+we propose an interpretable novel neural network-based model, hierarchical co-attention selection network (HCSN), to predict whether the source post is fake, as well as the explanation that emphasizes important comments and particular words. The key insight of HCSN model is to incorporate the Gumbel-Max trick in the hierarchical co-attention selection mechanism that captures sentence-level and word-level information from the source post and comments following the sequence as words-sentences-words-event. In addition, HCSN enjoys the additional benefit of interpretability — it provides a conscious explanation to explain how it reaches certain results by selecting comments and highlighting words.
+We will update the repository code after the paper is published.
